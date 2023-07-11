@@ -1,4 +1,4 @@
-module shortlnk.eu/ids
+module github.com/shortlnk/functions-ids
 
 go 1.20
 
