@@ -1,4 +1,4 @@
-module github.com/shortlnk/functions-ids
+module github.com/shortlnk/ids-generator
 
 go 1.20
 
